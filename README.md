@@ -1,4 +1,4 @@
-# Gestión de Stock con Flutter | Tomas Espinosa
+# Gestión de Stock con Flutter
 
 Este proyecto es una aplicación de gestión de inventario creada con Flutter, diseñada para facilitar el control de stock en diferentes negocios.
 
